@@ -1,1 +1,1 @@
-# Vocalize AI: TensorFlow-Keras ile Ses Tanıma ve Sınıflandırma
+# Vocalize AI: Speech Recognition and Classification with TensorFlow-Keras
