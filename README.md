@@ -4,4 +4,5 @@
 - **Audio Classification**: Classifies audio files into specific categories.
 - **Customizable Model**: Adjust model architecture and hyperparameters for optimized results.
 
-## Licance
+## License
+This project is licensed under the MIT License.
