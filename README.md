@@ -1,8 +1,3 @@
-# Vocalize AI: Speech Recognition and Classification with TensorFlow-Keras
+# Vocalize AI: Audio Recognition and Classification Project
 
-## Features
-- **Audio Classification**: Classifies audio files into specific categories.
-- **Customizable Model**: Adjust model architecture and hyperparameters for optimized results.
-
-## License
-This project is licensed under the MIT License.
+**Vocalize AI** is an audio recognition and classification application developed using TensorFlow and Keras. This project offers the ability to recognize voice commands, classify environmental sounds, and perform various audio analyses. The model, trained with the **UrbanSound8K** dataset, is designed to classify different sounds commonly heard in urban environments.
