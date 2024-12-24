@@ -26,3 +26,5 @@ This project uses the **UrbanSound8K** dataset to identify and classify urban so
 
 For more information about the UrbanSound8K dataset, please visit [this page](https://urbansounddataset.weebly.com/urbansound8k.html).
 
+## License
+This project is licensed under the MIT License.
