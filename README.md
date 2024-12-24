@@ -28,3 +28,7 @@ For more information about the UrbanSound8K dataset, please visit [this page](ht
 
 ## License
 This project is licensed under the MIT License.
+
+
+## Contact
+If you have any questions, please reach out via a.bugraaytar@gmail.com
